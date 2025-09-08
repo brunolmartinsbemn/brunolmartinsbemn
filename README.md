@@ -70,8 +70,3 @@ Tech Lead, Backend Developer e DevOps Engineer com sólida experiência em arqui
 
 Lidero equipes de desenvolvimento remoto, atuando como mentor técnico, arquiteto de soluções e responsável por garantir qualidade, estabilidade e evolução contínua dos sistemas.
 
----
-
-📫 **Contato**
-
-📧 bruno.martins@bemn.com.br
