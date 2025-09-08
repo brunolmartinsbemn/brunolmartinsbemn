@@ -74,6 +74,4 @@ Lidero equipes de desenvolvimento remoto, atuando como mentor técnico, arquitet
 
 📫 **Contato**
 
-📧 bruno.martins@confrapag.com.br  
-📧 bruno.martins@stalo.digital  
 📧 bruno.martins@bemn.com.br
