@@ -64,6 +64,14 @@ Tech Lead, Backend Developer e DevOps Engineer com sólida experiência em arqui
   <img src="https://img.shields.io/badge/WHM-cPanel-orange" />
 </p>
 
+
+<div>
+  <a href="https://github.com/brunolmartinsbemn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolmartinsbemn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolmartinsbemn&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
 ---
 
 🌍 **Atualmente**
