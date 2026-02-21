@@ -22,13 +22,27 @@ Tech Lead, Backend Developer e DevOps Engineer com sólida experiência em arqui
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 </p>
 
-### DevOps & Infraestrutura
+### Infraestrutura & Sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
+</p>
+
+### DevOps, Automação & IaC
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
 ### Cloud & Orquestração
@@ -47,7 +61,7 @@ Tech Lead, Backend Developer e DevOps Engineer com sólida experiência em arqui
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-### Mensageria & Monitoramento
+### Mensageria, Logs & Monitoramento
 
 <p>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
@@ -56,25 +70,20 @@ Tech Lead, Backend Developer e DevOps Engineer com sólida experiência em arqui
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
 </p>
 
-### Ferramentas & Plataformas
+### Ferramentas & Painéis
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-9013FE?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/WHM-cPanel-orange" />
+  <img src="https://img.shields.io/badge/CWP-2C3E50?style=flat&logo=cpanel&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/f27688f34eaaef1ae9cad2611fda7cd187c6fb6602fd57cc148f4aa600d34f4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42454d4e2d4465764f70732d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465" />
 </p>
-
-
-<div>
-  <a href="https://github.com/brunolmartinsbemn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolmartinsbemn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolmartinsbemn&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
 
 ---
 
 🌍 **Atualmente**
 
-Lidero equipes de desenvolvimento remoto, atuando como mentor técnico, arquiteto de soluções e responsável por garantir qualidade, estabilidade e evolução contínua dos sistemas.
+Atuo como Tech Lead, Backend Developer e DevOps Engineer, liderando equipes remotas e definindo arquitetura de soluções com foco em performance, segurança, automação e evolução contínua dos sistemas.
 
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/brunobemn/" target="_blank">linkedin.com/in/brunobemn</a>
